@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/4a96a125-8cce-4935-98d8-d13e3caf73c0)
 
 
-##❓ **Viztector가 뭐예요?**  
+## ❓ **Viztector가 뭐예요?**  
 **Viztector**는 그래프 이미지에서 발생할 수 있는 데이터 왜곡을 실시간으로 분석하고, 교정해주는 AI 기반 솔루션입니다. [ChartReader](https://github.com/zhiqic/ChartReader)와 [korean_ocr_using_pororo](https://github.com/black7375/korean_ocr_using_pororo)를 활용하여 그래프의 왜곡 문제를 탐지하고, 이를 자동으로 교정합니다. 이 프로젝트는 연구 및 데이터 시각화에서 정확하고 신뢰성 있는 그래프를 제공할 수 있도록 지원합니다.
 
 ## 🌐 **웹사이트**  
