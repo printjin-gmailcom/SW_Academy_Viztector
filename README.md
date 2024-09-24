@@ -51,7 +51,7 @@ KPGrouping 모델 파일 다운로드:
 `detection_test.ipynb`를 실행하여 모델을 테스트하세요.
 
 
-🛠 **기술 스택**  
+## 🛠 **기술 스택**  
 - **프론트엔드**: **크롬 익스텐션** (HTML, CSS, JavaScript)  
 - **백엔드**: 파이썬, Flask  
 - **AI 모델**: Pororo, ChartReader  
