@@ -57,7 +57,6 @@ KPGrouping 모델 파일 다운로드:
 - **AI 모델**: Pororo, ChartReader  
 
 
-## 📝 **개발자 소개**  
 
 
 ## 🐞 **버그 및 디버깅**  
